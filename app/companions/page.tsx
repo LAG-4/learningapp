@@ -1,7 +1,7 @@
 
 const Companion=()=> {
     return (
-        <div>Sign In</div>
+        <div>Companion</div>
     )
 }
 
