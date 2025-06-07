@@ -1,8 +1,14 @@
+import CompanionForm from "@/components/CompanionForm";
 import React from "react";
 
 const NewCompanion=()=> {
     return (
-        <div>New Companion</div>
+        <main>
+            <article>
+                <h1>Companion Builder</h1>
+                <CompanionForm/>
+            </article>
+        </main>
     )
 }
 
